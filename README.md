@@ -31,6 +31,9 @@ Lo que nos da de resultado este algoritmo es el resto anterior a la operación e
 
 Resultado : 3 = 393*(-36) + 267*53
 
-
+| Comando | Descripción |
+| --- | --- |
+| `git status` | Enumera todos los archivos *nuevos o modificados* |
+| `git diff` | Muestra las diferencias de archivo que **no han sido** preparadas |
 
 
