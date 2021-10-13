@@ -31,9 +31,17 @@ Lo que nos da de resultado este algoritmo es el resto anterior a la operación e
 
 Resultado : 3 = 393*(-36) + 267*53
 
-| r | c | u | v | 
-| --- | --- |
-| `git status` | Enumera todos los archivos *nuevos o modificados* |
-| `git diff` | Muestra las diferencias de archivo que **no han sido** preparadas |
-
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">Primera columna</td>
+    <td style="width: 33%;">Segunda columna</td>
+    <td style="width: 33%;">Tercera columna</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+  </tr>
+  <tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
+  </tr>
+</table>
 
